@@ -1,4 +1,4 @@
-import { CuttingPlane } from './CuttingPlane.js';
+import { CuttingPlane } from 'https://raw.githubusercontent.com/forerunrun/test/main/components/CuttingPlane.js';
 
 // # class Polygon
 
