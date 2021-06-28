@@ -1,1 +1,1 @@
-import { CSG } from '../CSG.js';
+import { CSG } from 'https://raw.githubusercontent.com/forerunrun/test/main/CSG.js';
