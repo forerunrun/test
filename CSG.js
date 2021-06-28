@@ -7,9 +7,9 @@ import {
   Vector3,
 } from "https://threejsfundamentals.org/threejs/resources/threejs/r127/build/three.module.js";
 
-import { BSPNode } from "./components/BSPNode.js";
-import { Polygon } from "./components/Polygon.js";
-import { Vertex } from "./components/Vertex.js";
+import { BSPNode } from "https://raw.githubusercontent.com/forerunrun/test/main/components/BSPNode.js";
+import { Polygon } from "https://raw.githubusercontent.com/forerunrun/test/main/components/Polygon.js";
+import { Vertex } from ".https://raw.githubusercontent.com/forerunrun/test/main/components/Vertex.js";
 
 // Constructive Solid Geometry (CSG) is a modeling technique that uses Boolean
 // operations like union and intersection to combine 3D solids. This library
