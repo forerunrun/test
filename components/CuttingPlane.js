@@ -1,4 +1,4 @@
-import { Plane, Vector3 } from '../../R127/build/three.module.js';
+import { Plane, Vector3 } from 'https://threejsfundamentals.org/threejs/resources/threejs/r127/build/three.module.js';
 import { Polygon } from './Polygon.js';
 
 var _vector1 = new Vector3();
