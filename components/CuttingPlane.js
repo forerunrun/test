@@ -1,5 +1,5 @@
 import { Plane, Vector3 } from 'https://threejsfundamentals.org/threejs/resources/threejs/r127/build/three.module.js';
-import { Polygon } from './Polygon.js';
+import { Polygon } from 'https://raw.githubusercontent.com/forerunrun/test/main/components/Polygon.js';
 
 var _vector1 = new Vector3();
 var _vector2 = new Vector3();
